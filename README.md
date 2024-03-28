@@ -6,5 +6,6 @@ Step-by-step instruction:
 	3. A new file called "README.md" has been created by 			- touch README.md.
 	4. The new file has been added into repozitory by 			- git add README.md
 	5. First commit done by 						- git commit -m "init"
-	6.  
-
+	6. New branch called "development" created  by  			- git switch -c development 
+	7. New steps added into README.md in development branch 		- nano README.md | git add README.md
+	8. The changes to the "development" branch have been committed 		- git commit -m "changes in the new branch"
