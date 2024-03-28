@@ -9,3 +9,5 @@ Step-by-step instruction:
 	6. New branch called "development" created  by  			- git switch -c development 
 	7. New steps added into README.md in development branch 		- nano README.md | git add README.md
 	8. The changes to the "development" branch have been committed 		- git commit -m "changes in the new branch"
+	9. The changes from the "development" are merged into the "main" branch - git merge main
+
